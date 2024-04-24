@@ -1,29 +1,8 @@
-# tallerVue
+# Sistema CRUD de nombres con vue.js
+Esta pagina se basa en la cracion de una interfaz donde se puedan agregar nombres con sus apellidos, pudiendo editar estos nombres y mostrarlos en una lista.
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+# Uso
+-Clonar el repositorio
+-Abrir el proyecto en el editor de codigo
+-Instalar las dependencias utilizando npm:npm install
+-Iniciar la aplicacion: npm run dev
